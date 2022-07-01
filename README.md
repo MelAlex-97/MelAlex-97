@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oleksandr.
-- 👀 I’m interested in Front-End development.
-- 🌱 I’m currently learning JavaScript and React.
+- 👀 I’m interested in JavaScript development.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on developers who want to put their ideas into practice. 
 - 📫 How to reach me - mel.poi97@gmail.com
 
